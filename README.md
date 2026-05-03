@@ -52,5 +52,8 @@ streamlit run app.py
 * Deploy online
 
 ---
+## 📸 Demo
+
+![App Screenshot](assets/screenshot.png)
 
 
