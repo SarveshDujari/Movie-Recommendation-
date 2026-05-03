@@ -20,6 +20,15 @@ A content-based movie recommendation system built using Machine Learning and dep
 * Streamlit
 
 ---
+## 🛠️ Development
+
+- Built a content-based recommendation system using vectorization and cosine similarity  
+- Preprocessed and cleaned movie dataset to handle missing values and inconsistencies  
+- Performed feature engineering by combining relevant metadata (genres, keywords, cast)    
+- Structured project into modular components for better readability and maintenance  
+- Improved UI and user experience of the web application using AI-assisted tools
+
+---
 
 ## ⚙️ How It Works
 
